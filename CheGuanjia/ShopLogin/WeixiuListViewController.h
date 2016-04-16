@@ -1,0 +1,14 @@
+//
+//  ShopYuYueViewController.h
+//  CheGuanjia
+//
+//  Created by GuoZi on 16/3/8.
+//  Copyright © 2016年 ChuMing. All rights reserved.
+//
+
+#import "BaseViewController.h"
+
+@interface WeixiuListViewController : BaseViewController
+@property(nonatomic,strong)NSString *stateStr;
+@property(nonatomic,strong)NSString *fromWhereStr;
+@end
